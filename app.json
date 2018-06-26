@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/use/index",
+    "pages/order/index",
+    "pages/id/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "black",
+    "navigationBarBackgroundColor": "#FF75CD",
+    "navigationBarTitleText": "怡红院",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "大门"
+      },
+      {
+        "pagePath": "pages/order/index",
+        "text": "大厅"
+      },
+      {
+        "pagePath": "pages/use/index",
+        "text": "包厢"
+      }
+    ]
+
+  }
+}

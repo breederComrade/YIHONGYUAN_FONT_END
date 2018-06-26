@@ -1,0 +1,23 @@
+<view>
+  <text>{{messages}}</text>
+  <view>
+
+    <view>
+      <ul>
+        <block wx:for="{{girls}}" wx:key="{{item.name}}">
+          <li>
+          <navigator url="../id/index?id={{item.name}}" hover-class="navigator-hover" >
+                 <image src="{{item.picimg}}" class="slide-image" width="355" height="150" mode='aspectFit' data-attackUrl = '{{item.name}}' />
+          
+          </navigator>
+       
+          </li>
+        </block>
+      </ul>
+    </view>
+
+
+  </view>
+
+
+</view>

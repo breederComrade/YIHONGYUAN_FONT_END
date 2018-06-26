@@ -1,0 +1,4 @@
+<!--pages/id/index.wxml-->
+<view>
+    <image src="{{img}}" class="slide-image" width="355" height="150" mode='aspectFit'  />
+</view>

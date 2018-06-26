@@ -1,0 +1,9 @@
+<view>
+  <text>{{messages}}</text>
+  <view>
+
+      
+  </view>
+
+
+</view>

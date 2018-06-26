@@ -1,0 +1,9 @@
+.Start{
+  background: #FF75CD;
+  color: white;
+  /* position: absolute;
+  bottom:20px;
+  left: 0; */
+  width: 100%;
+  border: none;
+}
