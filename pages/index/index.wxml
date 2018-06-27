@@ -1,4 +1,14 @@
-
+<page class='container'>
 <view  class='main'>
-  <text>{{messages}}</text>
+
+   <view class='postionBox'>
+      <image src='https://s1.ax1x.com/2018/06/27/PPyugH.png'  class='mamasan'/>
+     
+       <view class='speakbox'>
+          <text>{{messages}}</text>
+       </view>
+   </view>
+
+ 
 </view>
+</page>

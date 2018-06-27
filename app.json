@@ -8,7 +8,7 @@
   ],
   "window": {
     "backgroundTextStyle": "black",
-    "navigationBarBackgroundColor": "#FF75CD",
+    "navigationBarBackgroundColor": "#d5ae8f",
     "navigationBarTitleText": "怡红院",
     "navigationBarTextStyle": "white"
   },
@@ -23,7 +23,9 @@
       "pagePath": "pages/use/index",
       "text": "包厢"
 	}
-   ]
+   ],
+   "backgroundColor": "#d5ae8f",
+   "color": "white"
   }
 
 }
