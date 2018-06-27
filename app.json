@@ -13,20 +13,17 @@
     "navigationBarTextStyle": "white"
   },
   "tabBar": {
-    "list": [
-      {
-        "pagePath": "pages/index/index",
-        "text": "大门"
-      },
-      {
-        "pagePath": "pages/order/index",
-        "text": "大厅"
-      },
-      {
-        "pagePath": "pages/use/index",
-        "text": "包厢"
-      }
-    ]
-
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "大门"
+    }, {
+      "pagePath": "pages/order/index",
+      "text": "一楼"
+    }, {
+      "pagePath": "pages/use/index",
+      "text": "包厢"
+	}
+   ]
   }
+
 }

@@ -34,6 +34,7 @@ App({
     })
   },
   globalData: {
-    userInfo: null
+    userInfo: null,
+    requestURL:"192.168.31.38:8888"
   }
 })

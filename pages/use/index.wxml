@@ -1,5 +1,5 @@
 <!--pages/use/index.wxml-->
 <view>
-     爷 你银两准备好没？
+    {{ messages}}
 
 </view>

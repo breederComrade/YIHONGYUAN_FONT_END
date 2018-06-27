@@ -1,9 +1,4 @@
-<view>
+
+<view  class='main'>
   <text>{{messages}}</text>
-  <view>
-
-      
-  </view>
-
-
 </view>
