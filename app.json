@@ -1,9 +1,11 @@
 {
   "pages": [
     "pages/index/index",
+    "pages/push/index",
     "pages/logs/logs",
     "pages/use/index",
     "pages/order/index",
+    "pages/setting/index",
     "pages/id/index"
   ],
   "window": {
@@ -22,10 +24,15 @@
     }, {
       "pagePath": "pages/use/index",
       "text": "包厢"
-	}
+	},
+  {
+    "pagePath": "pages/setting/index",
+    "text": "后庭"
+  }
    ],
    "backgroundColor": "#d5ae8f",
-   "color": "white"
+   "color": "#000",
+   "selectedColor": "#ff0000"
   }
 
 }

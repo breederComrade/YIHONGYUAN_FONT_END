@@ -1,0 +1,9 @@
+<!--pages/push/index.wxml-->
+<view>
+  <input></input>
+  <input></input>
+  <input></input>
+  <button bindtap='addNewGirl'>
+    添加
+  </button>
+</view>

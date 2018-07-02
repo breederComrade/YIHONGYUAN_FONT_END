@@ -1,0 +1,11 @@
+<!--pages/setting/index.wxml-->
+<view>
+  <button bindtap='submitNewGirl'>
+    发布新姑娘
+  </button>
+  
+
+
+
+
+</view>
